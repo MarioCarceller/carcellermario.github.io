@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Mario Carceller",
+    "email": "mario.carcelelrdelarco@unil.ch",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://mariocarceller.github.io",
+    "summary": "PhD candidate University of Lausanne",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Lausanne",
+      "countryCode": "Switzerland",
       "region": ""
     },
     "profiles": [
