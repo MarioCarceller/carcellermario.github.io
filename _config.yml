@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Mario Carceller / Site Title"
+title                    : "Mario Carceller"
 title_separator          : "-"
 name                     : &name "Mario Carceller"
 description              : &description "PhD candidate, University of Lausanne"
