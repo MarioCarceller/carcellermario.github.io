@@ -20,4 +20,5 @@ Policy work
 --------------
 
 [**Macroeconomic effects of the Inflation Reduction Act**](https://www.dnb.nl/en/publications/research-publications/analysis/macroeconomic-effects-of-the-inflation-reduction-act/) (2023) _DNB Analysis_
+
 with _[K. Mavromatis](https://www.dnb.nl/en/research/personal-pages/kostas-mavromatis/), B.H. van Voss, E. Vording and J. Rusch_
